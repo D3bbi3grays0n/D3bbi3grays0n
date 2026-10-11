@@ -7,4 +7,4 @@
 <img width="735" height="486" alt="Untitled370_20261011222813" src="https://github.com/user-attachments/assets/06be2c7b-eaa5-4ec5-81f9-8401e21f5897" />
 
 
-$/color{#C82300}{/texttt{ credits to the owner }}$
+ `#FF5733`
